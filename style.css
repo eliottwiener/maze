@@ -1,0 +1,13 @@
+body
+{
+  		  margin: 20px 0px 0px 20px;
+		  font-family: verdana, geneva, arial, helvetica, sans-serif; 
+          font-size:11px;
+		  background-color: #ddddcc; 
+}
+
+#title { font-size:32px; }
+		 
+a          { color: #3399cc; text-decoration:none;}
+a:visited  { color: #cc3333; }
+a:hover    { text-decoration: underline; position:relative; top:1; left:1}
